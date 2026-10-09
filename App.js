@@ -5,7 +5,7 @@ import {
 } from 'react-native';
 
 const { width: SCREEN_WIDTH } = Dimensions.get('window');
-const ART = require('./assets/hyena.jpg');
+const ART = require('./hyena.jpg');
 const EXPRESSIONS = ['通常', 'にこっ', 'クール'];
 
 export default function App() {
